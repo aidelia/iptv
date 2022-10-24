@@ -241,8 +241,13 @@ https://corsproxy.io/?http://heroe3mu.epizy.com/youtube/UCv0zRACOVWmhu1Ilufm40-w
 #EXTINF:-1 group-title="CORDOBA" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_D0HclL9cRjhh4ILNO0lzSQU6F9eKrxabT-u85ww=s88-c-k-c0x00ffffff-no-rj", EL DOCE CORDOBA
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCMHxagKUH7t07eTs8lNfblg.m3u8
 
-#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8PnupvdwXI7sMDd-SyOb4zTVQo9d37xfWjE7KoIQ=s88-c-k-c0x00ffffff-no-rj", AMERICA TUCUMAN
+#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://corsproxy.io/?http://heroem3u.epizy.com/img/c10tuc.jpeg", CANAL 10 TUCUMAN 27.1
+https://corsproxy.io/?http://heroem3u.epizy.com/embed/10tucuman.m3u8
+ 
+#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8PnupvdwXI7sMDd-SyOb4zTVQo9d37xfWjE7KoIQ=s88-c-k-c0x00ffffff-no-rj", AMERICA TUCUMAN 28.1
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+
 
 #EXTINF:-1 group-title="MENDOZA" tvg-logo="https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s88-c-k-c0xffffffff-no-rj-mo", CANAL 7 MENDOZA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/-mnusASJf5A
@@ -258,6 +263,18 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCuJvDPQIaUhvdHiH275WjNA
 
 #EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJeSEpy4SwIcfLi2KXe7A4Wd2FXeucWeFpMO2w=s48-c-k-c0x00ffffff-no-rj", VERTE TV
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCTbVXq3F3SNVkn6s03nd7HQ.m3u8
+
+#EXTINF:-1 group-title="SALTA" tvg-logo="https://pbs.twimg.com/profile_images/1460346406993108995/2RunknLb_400x400.jpg", EL 10 SALTA 35.2
+https://corsproxy.io/?http://heroem3u.epizy.com/embed/10salta.m3u8
+ 
+#EXTINF:-1 group-title="SALTA" tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", MULTIVISION SALTA 35.1
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png", ZONA FILMS TV
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/zonafilmstv
+
+#EXTINF:-1 group-title="JUJUY" tvg-logo="https://yt3.ggpht.com/aWrAmNEE3tbAkTfPV0Whw-OKKYtG11mtNrRToZQlQ952p0uWOsfFgPo0gn377qGq0GNKDg1fWQ=s88-c-k-c0xffffffff-no-rj-mo", RADIO AM630 JUJUY
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCMikS5--DczSjozuGIyUI1Q.m3u8
 
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
@@ -306,6 +323,12 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="NOTICIAS" , RAI NEWS
 https://streamcdnd1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="NOTICIAS" , NHK World Japan 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS", Nippon News TV Japan
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="NACIONALES", MIRADOR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
@@ -380,8 +403,13 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vdt
 #EXTINF:-1 group-title="CORDOBA", EL DOCE CORDOBA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/gBbMbqILzXU  
 
-#EXTINF:-1 group-title="TUCUMAN", AMERICA TUCUMAN
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/FeZa4IsEeCc
+
+ 
+#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8PnupvdwXI7sMDd-SyOb4zTVQo9d37xfWjE7KoIQ=s88-c-k-c0x00ffffff-no-rj", AMERICA TUCUMAN 28.1
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+#EXTINF:-1 group-title="TUCUMAN" tvg-logo="https://corsproxy.io/?http://heroem3u.epizy.com/img/c10tuc.jpeg", CANAL 10 TUCUMAN 27.1
+https://corsproxy.io/?http://heroem3u.epizy.com/embed/10tucuman.m3u8
 
 #EXTINF:-1 group-title="MENDOZA", CANAL 7 MENDOZA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/-mnusASJf5A
@@ -1617,6 +1645,12 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="INFANTIL", ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="NINFANTIL",Detective Conan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1878,11 +1912,133 @@ https://tvmaxsa.com.py/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkigU_iIPBm8Clfg7xNOA7ABuwk92uf4XvUvhTuO7Uu6D9DbQyTiPczaOApNBBDrqn_Z4&usqp=CAU" group-title="PARAGUAY", UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVlVtFlS4UMIOo2EGQGQJObwqHQTb24ryfT8Jh2Sx5tTouM8gpPwDHcBk2qR8lW9NlmvQ&usqp=CAU" group-title="PARAGUAY", Uniradio TV 
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/927_Anzoategui_TV.png" group-title="VENEZUELA ", Anzoategui TV 
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb9aa34da5d2de2e08f1dcc672e1d268.png" group-title="VENEZUELA ", BTA TV
+https://vcp3.myplaytv.com/bta/bta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1486365719872815104/IaU7LzJq_400x400.jpg" group-title="VENEZUELA ", Bit Radio TV 
+https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/519_Canal_i.png" group-title="VENEZUELA ", Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="VENEZUELA ", CANAL 11 ZULIA
+http://200.6.154.43:1935/canal11/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png" group-title="VENEZUELA ", Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/144_Catatumbo_TV.png" group-title="VENEZUELA ", Catatumbo TV
+https://vcp3.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/54f39c6830199197a0c147097e91eb54.png" group-title="VENEZUELA ", Chivacoa TV 
+https://vdo.panelstreaming.live:3974/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png" group-title="VENEZUELA ", eSports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/809204eb3ad39d8c9429bbfd4358884d.png" group-title="VENEZUELA ", EXC TV 
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/44d839eef2ee10d75d93b498dc776dfc.png" group-title="VENEZUELA ", Fiesta Max TV
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9d44b7a5c2c55d571134074f6057fee3.png" group-title="VENEZUELA ", Humor Max Channel
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png" group-title="VENEZUELA ", Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/011fb5268f5b04f0940a71041a2db28e.png" group-title="VENEZUELA ", Miranda TV
+https://vcp.myplaytv.com/mdatv/mdtav/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/928_MovieFE.png" group-title="VENEZUELA ", MovieFE
+https://vcp.myplaytv.com:443/moviefe/ngrp:moviefe_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png" group-title="VENEZUELA ", NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png" group-title="VENEZUELA ", OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/924_Panavision.png" group-title="VENEZUELA ", PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9562d397b4d3062c8f0b90c235a8c4e9.png" group-title="VENEZUELA ", PLTV
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9BWoKXWGkL8/Xxzv1rANFBI/AAAAAAAA3aw/DiZRzBM-OpgDJ_m32kNsUqCXr9qBjincgCK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA ", Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1486365719872815104/IaU7LzJq_400x400.jpg" group-title="VENEZUELA ", RADIO BIT
+https://vcp.myplaytv.com/sunacrip/sunacrip/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-9oxffsN2uIM/Xxzv8htqa6I/AAAAAAAA3a0/1hQeXtqRNrc1bIvJuaDBn6PGaMoPNGaWACK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA ", Reforma TV
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/84325e40ce60d16037b02586850d1c30.png" group-title="VENEZUELA ", ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/148_Telearagua.png" group-title="VENEZUELA ", Telearagua
+http://190.205.43.236:8080/hls/nginx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a0f5ba424b3a227e3826f146b5063138.png" group-title="VENEZUELA ", Telecolor
+https://vcp.myplaytv.com/telecolor/telecolor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6ce00e14d50fd87b8553b9c96201de3d.png" group-title="VENEZUELA ", Telesol
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/499_Telesur.png" group-title="VENEZUELA ", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/149_Televen.jpg" group-title="VENEZUELA ", Televen
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8  
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png" group-title="VENEZUELA ", TLT
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/691fbd76ac69d53faecf3480cecd4826.png" group-title="VENEZUELA ", TRV 
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a8b5e009d5d735ea3c62feb24231cc0f.png" group-title="VENEZUELA ", TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfenab/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1241709767221039106/LsV9TKDq_400x400.jpg" group-title="VENEZUELA ", TV FAMILIA
+https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/518_TVS_Maracay.png" group-title="VENEZUELA ", TVS MARACAY
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/8c2f2173bc185136286b7335795f678b.png" group-title="VENEZUELA ", TVV
+https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1044692952126246918/WCkzfLXs_400x400.jpg" group-title="VENEZUELA ", TV VENEZUELA
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/152_TVO.png" group-title="VENEZUELA ", TVO
+https://vcp3.myplaytv.com/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1470875652257628173/6ZbC2qFo_400x400.jpg" group-title="VENEZUELA ",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1214951099662315520/4b1mMLto_400x400.jpg" group-title="VENEZUELA ",Ve Plus
+http://190.122.96.187:8888/http/006
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1488181813684154374/KpW5lUb3_400x400.jpg" group-title="VENEZUELA ", Venevision
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/153_Vepaco_TV.png" group-title="VENEZUELA ", Vepaco TV
+https://vcp3.myplaytv.com/tvepaco/tvepaco/playlist.m3u8
 
 
 
@@ -1893,7 +2049,7 @@ https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/if91GyWP3zQ
 
 #EXTINF:-1 group-title="WEB CAM Y CLIMA", USHUAIA LIVE
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/ohVwStb8FMg
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/ohVwStb8FM
 
 
 
